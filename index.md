@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## This could be a first post
 
-You can use the [editor on GitHub](https://github.com/neutrel/neutrel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is how a first post of mine will look like, before i really change any of the format. Happy Intelligence Exploring!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to My intelligence Journey
+
+This is a blog that will follow my exploration of Human and Artificial Intelligence.
+
+i'll keep the information underneath just to go back and not make mistakes while coding for this page.
 
 ### Markdown
 
